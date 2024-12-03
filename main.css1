@@ -4,7 +4,6 @@ body {
   line-height: 1.6;
 }
 
-/* Header Styles */
 header {
   text-align: center;
   padding: 20px;
@@ -23,7 +22,6 @@ header h2 {
   color: #555;
 }
 
-/* Main Section Styles */
 main {
   display: flex;
   justify-content: center;
@@ -48,29 +46,4 @@ main {
   padding: 15px;
   border: 1px solid #ddd;
   border-radius: 8px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  width: 300px;
-}
-
-.list-container li strong {
-  font-size: 1.2em;
-  color: #333;
-  display: block;
-  margin-bottom: 5px;
-}
-
-.list-container li p {
-  margin: 0;
-  color: #555;
-  font-size: 0.95em;
-}
-
-/* Footer Styles */
-footer {
-  text-align: center;
-  padding: 20px;
-  background-color: #f4f4f4;
-  border-top: 1px solid #ddd;
-  font-size: 0.9em;
-  color: #555;
-}
+  box-shadow: 0 2px 5px rgba(0, 
